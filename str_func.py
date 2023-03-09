@@ -6,7 +6,9 @@ def word_upper(a):
 
 
 def word_title(a):
-    """
-    Функция возвращает каждое слово в строке с заглавной буквой
-    """
+
     return a.title
+
+
+
+
