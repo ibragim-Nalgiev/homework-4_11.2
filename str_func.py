@@ -6,7 +6,7 @@ def word_upper(a):
 
 
 def word_title(a):
-
+"""добавил докстринг"""
     return a.title
 
 
