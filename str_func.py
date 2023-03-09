@@ -6,7 +6,7 @@ def word_upper(a):
 
 
 def word_title(a):
-"""добавил докстринг"""
+"""возвращает слова в строке с большой буквой"""
     return a.title
 
 
